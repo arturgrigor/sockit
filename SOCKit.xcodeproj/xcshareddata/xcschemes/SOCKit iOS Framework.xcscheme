@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FE0935CB1E8030B60092BF67"
                BuildableName = "SOCKit.framework"
-               BlueprintName = "SOCKit iOS"
+               BlueprintName = "SOCKit iOS Framework"
                ReferencedContainer = "container:SOCKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,7 +34,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FE0935E41E8031F10092BF67"
                BuildableName = "SOCKit.xctest"
-               BlueprintName = "SOCKit iOS Tests"
+               BlueprintName = "SOCKit iOS Framework Tests"
                ReferencedContainer = "container:SOCKit.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -44,7 +44,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE0935CB1E8030B60092BF67"
             BuildableName = "SOCKit.framework"
-            BlueprintName = "SOCKit iOS"
+            BlueprintName = "SOCKit iOS Framework"
             ReferencedContainer = "container:SOCKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,7 +66,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE0935CB1E8030B60092BF67"
             BuildableName = "SOCKit.framework"
-            BlueprintName = "SOCKit iOS"
+            BlueprintName = "SOCKit iOS Framework"
             ReferencedContainer = "container:SOCKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,7 +84,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FE0935CB1E8030B60092BF67"
             BuildableName = "SOCKit.framework"
-            BlueprintName = "SOCKit iOS"
+            BlueprintName = "SOCKit iOS Framework"
             ReferencedContainer = "container:SOCKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
